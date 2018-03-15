@@ -1,3 +1,6 @@
+# Deprecated
+## Just use KVM, seriously
+
 # docker-xo
 
 Simple docker file to build an up-to-date Xen Orchestra container, based on Alpine Linux.
